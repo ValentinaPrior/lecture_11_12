@@ -74,3 +74,6 @@ let m=true;
 let n=false;
 
 console.log(a&&b)
+// and and, both msut be true
+//think cami corrado
+

@@ -59,3 +59,9 @@ let b=20;
 
 console.log(a+b);
 
+// a+=        a+10
+
+
+
+console.log(a==b);
+

@@ -42,3 +42,6 @@ console.log(pet);
 
 let house= null;
 console.log(house);
+
+let bigNum=290930202099020920920209290209320920392093029;
+console.log(bigNum);

@@ -39,3 +39,6 @@ console.log(userName);
 
 let pet=false;
 console.log(pet);
+
+let house= null;
+console.log(house);

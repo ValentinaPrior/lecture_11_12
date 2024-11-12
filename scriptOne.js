@@ -36,3 +36,6 @@ console.log(age2);
 
 let userName= "Harry";
 console.log(userName);
+
+let pet=false;
+console.log(pet);

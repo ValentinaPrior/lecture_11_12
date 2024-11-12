@@ -45,3 +45,17 @@ console.log(house);
 
 let bigNum=290930202099020920920209290209320920392093029;
 console.log(bigNum);
+
+
+
+let first= "Valentina";
+let last= "Prior"
+console.log(first, last)
+
+
+let a=100;
+
+let b=20;
+
+console.log(a+b);
+

@@ -77,3 +77,12 @@ console.log(a&&b)
 // and and, both msut be true
 //think cami corrado
 
+let house1;
+let name1="Valentina";
+
+
+if (name1=="Valentina")
+{
+    house1="slytherin";
+    console.log(house1);
+}

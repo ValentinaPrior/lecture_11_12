@@ -61,7 +61,16 @@ console.log(a+b);
 
 // a+=        a+10
 
-
-
 console.log(a==b);
+console.log(a!=b);
 
+let c='200';
+let d=200;
+console.log(c==d);      
+//  true
+
+
+let m=true;
+let n=false;
+
+console.log(a&&b)
